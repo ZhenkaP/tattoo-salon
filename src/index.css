@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Изменение цвета и размера стандартных стрелок */
+:root {
+  --swiper-navigation-color: #ffffff; /* Цвет стрелок */
+  --swiper-navigation-size: 24px; /* Размер стрелок */
+
+  --swiper-pagination-color: #ffffff; /* Цвет активных точек */
+  --swiper-pagination-bullet-inactive-color: #9ca3af; /* Цвет неактивных точек */
+  --swiper-pagination-bullet-inactive-opacity: 0.7;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
