@@ -26,7 +26,7 @@ function ScrollToTop() {
       {isVisible && (
         <button
           onClick={scrollToTop}
-          className="fixed z-50 p-3 transition-all duration-300 rounded-full shadow-lg bg-white/50 focus:outline-none hover:bg-rose-500 hover:scale-110 bottom-8 right-8 focus:ring-2 focus:ring-white"
+          className="fixed z-50 p-3 transition-all duration-300 -translate-y-full rounded-full shadow-lg bg-white/50 focus:outline-none hover:bg-rose-500 hover:scale-110 bottom-8 right-8 focus:ring-2 focus:ring-white"
           aria-label="Прокрутить наверх"
         >
           <svg
