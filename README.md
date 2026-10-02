@@ -1,7 +1,7 @@
 # Tattoo Salon Landing Page 🎨
 
 A modern, adaptive landing page for a tattoo salon. Built with React and Vite to ensure high performance and a better user experience.
-![Tattoo Salon Preview](./preview.png)
+![Tattoo Salon Preview](./public/preview.png)
 
 <!-- 🔗 Live Demo: https://your-demo-link.vercel.app -->
 
