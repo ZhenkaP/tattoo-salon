@@ -14,7 +14,7 @@ function NewYorkMap() {
             className="object-cover w-full h-48 transition-transform duration-300 group-hover:scale-105 grayscale contrast-125"
           />
           <div className="pt-6 text-lg font-medium text-rose-900 md:pt-10">
-            Открыть карту →
+            Open map →
           </div>
         </div>
       </a>
